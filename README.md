@@ -1,0 +1,1 @@
+This is a simple implementation of the classic Snake and Ladders game, which is typically played on a board with 100 numbered squares. The goal of the game is to reach the 100th square first, with the help of ladders and avoiding the snakes that bring you down.
